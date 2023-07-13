@@ -4,14 +4,12 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eveneros)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eveneros/)
 
-&nbsp;
-
-<!-- Talking about you -->
 **Sobre mi:**
 
 - Desarrollador Web Senior especializado en desarrollo Backend y Frontend. Experiencia en todas las etapas del ciclo de desarrollo de proyectos web dinámicos.
 - Sólida experiencia en gestión de proyectos y relaciones con los clientes. Conocimientos avanzados en: .NET (C#, Net Framework, Core), JAVA (Spring Boot), PHP (Code Igniter, Laravel), Javascript (Node Js, React).
-- Especializado en desarrollo de API's. Desarrollador de aplicaciones móviles Android (Flutter, Java).
+- Especializado en desarrollo de API's.
+- Desarrollador de aplicaciones móviles Android (Flutter, Java).
 
 ---
 
