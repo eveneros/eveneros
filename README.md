@@ -6,10 +6,9 @@
 
 **Sobre mi:**
 
-- Desarrollador Web Senior especializado en desarrollo Backend y Frontend. Experiencia en todas las etapas del ciclo de desarrollo de proyectos web dinámicos.
-- Sólida experiencia en gestión de proyectos y relaciones con los clientes. Conocimientos avanzados en: .NET (C#, Net Framework, Core), JAVA (Spring Boot), PHP (Code Igniter, Laravel), Javascript (Node Js, React).
-- Especializado en desarrollo de API's.
-- Desarrollador de aplicaciones móviles Android (Flutter, Java).
+- Desarrollador Web Full Stack con amplia experiencia en desarrollo Backend y Frontend.
+- Especialista en todas las fases del ciclo de vida de proyectos web dinámicos, desde el diseño hasta la implementación y mantenimiento. 
+- Sólida experiencia en gestión de proyectos informáticos, liderazgo de equipos y relación con clientes.
 
 ---
 
