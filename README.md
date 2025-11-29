@@ -1,16 +1,10 @@
 <!-- Your title -->
-## Hola, soy Edson Veneros!
+## Hola, soy Veneros!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eveneros)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eveneros/)
 
-**Sobre mi:**
 
-- Desarrollador Web Full Stack con amplia experiencia en desarrollo Backend y Frontend.
-- Especialista en todas las fases del ciclo de vida de proyectos web dinámicos, desde el diseño hasta la implementación y mantenimiento. 
-- Sólida experiencia en gestión de proyectos informáticos, liderazgo de equipos y relación con clientes.
-
----
 
 **Lenguajes y Herramientas:**
 
